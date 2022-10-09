@@ -1,3 +1,38 @@
 body{
   background-color: olive;
 }
+.box1 { background:#d8d9db;}
+.box2 { background:#d8d9db;}
+.box3 { background:#d8d9db;}
+.box4 { background:#d8d9db;}
+.box5 { background:#d8d9db;}
+.box6 { background:#d8d9db;}
+.box7 { background:#e74c3c;}
+.box8 { background:#d8d9db;}
+.box9 { background:#d8d9db;}
+.box10 { background:#d8d9db;}
+.box11 {background: ;}
+.box12 {background: #d8d9db;}
+.box13 {background: #d8d9db;}
+.box14 {background: #d8d9db;}
+.box15 {background: ;}
+.box16 {background: #d8d9db;}
+.box17 {background: ;}
+
+
+.wrapper {
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 20px solid black;
+}
+
+.row {
+  display: flex;
+  flex-direction: row
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    }
